@@ -44,7 +44,7 @@ public class E1 {
                         System.out.print("아이디 입력해주십시오 : ");
                         String id1 = scanner.nextLine();
                         System.out.print("비밀번호를 입력해주세요 :");
-                        String Password1 = Scanner.nextLine();
+                        String Password1 = scanner.nextLine();
 
 
                         boolean loginSuccess = false;
